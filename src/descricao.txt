@@ -1,0 +1,47 @@
+1. possuir um controle de Login e Senha (independente do tema escolhido);
+    a. ao iniciar o sistema deve-se solicitar um usuário e senha;
+    b. crie 2 tipos de usuário com permissões diferentes, os quais habilitam menus distintos.
+
+2. permitir realizar um CRUD para duas classes (conforme o tema combinado previamente com o
+    professor e modelo uml abaixo):
+    a. incluir;
+    b. alterar;
+    c. excluir;
+    d. imprimir, no mínimo três (3) opções de Impressão:
+    i. para diferenciar os tipos de impressão, utilize ordenações e impressão com filtros.
+
+3. permitir alterar as informações do usuário logado. Ex: nome, senha, telefone.
+
+4. dispor de um menu para a escolha das opções do software;
+
+5. realizar a inicialização (carga) da coleção (lista) de dados de acordo com o tema escolhido, para
+facilitar a utilização do programa;
+6. O trabalho deve compor dos seguintes requisitos:
+a. métodos, conforme à necessidade;
+b. fazer algum tratamento de exceção;
+c. verificar possíveis erros, como:
+i. código duplicado, ex. cpf;
+ii. excluir algo que não existe;
+iii. etc.
+
+7. o sistema deve utilizar os seguintes recursos:
+a. orientação a objetos: interface, sobrescrita, polimorfismo e encapsulamento;
+b. expressões lambda.
+8. deve-se realizar ao menos 3 testes unitários.
+★ A prova deverá ser apresentada de forma Individual e a apresentação será nos dias 13/06/2023 ou
+20/06/2023 a partir das 08:00.
+★ Processo de avaliação:
+○ apresentação do trabalho;
+○ funcionalidades do programa;
+○ utilização correta dos recursos da linguagem;
+○ orientação a objetos;
+■ interface, sobrescrita, polimorfismo e encapsulamento.
+○ expressões Lambda.
+○ perguntas individuais sobre o funcionamento do programa e do código.
+❖ Classe1, Classe2 e Enum: são estruturas para serem definidas a partir do tema escolhido.
+❖ Cada trabalho deve definir os atributos das classes e os valores dos enums.
+❖ Sugestões de Temas:
+(1) Carros, (2) Locadora - Clientes, (3) Locadora - Filmes, (4) Farmácia - Produtos, (5) Farmácia -
+Clientes, (6) Currículo - Pessoas, (7) Sorveteria - Produtos, (8) Cinema - Filmes, (9) Bar - Produtos,
+(10) Motos, (11) Passagem Aérea, (12) Livros e (13) Náutica - Produtos.
+Obs.: Usem a criatividade, pode valer pontos. Boa prova! :)
